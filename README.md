@@ -228,9 +228,6 @@ video-recommendation-system/
     - Unit tests are written for each model to ensure correctness.
     - API testing ensures that the endpoints return the correct recommendations.
 
-## License
-* This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 ### Key Points Addressed:
 - **Model Selection**: Justified the use of hybrid models that combine content-based and collaborative filtering to handle diverse user needs.
